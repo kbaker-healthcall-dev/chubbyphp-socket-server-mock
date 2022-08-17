@@ -1,4 +1,4 @@
-# chubbyphp-socket-server-mock
+# Fork of chubbyphp-socket-server-mock
 
 [![Build Status](https://api.travis-ci.org/chubbyphp/chubbyphp-socket-server-mock.png?branch=master)](https://travis-ci.org/chubbyphp/chubbyphp-socket-server-mock)
 [![Coverage Status](https://coveralls.io/repos/github/chubbyphp/chubbyphp-socket-server-mock/badge.svg?branch=master)](https://coveralls.io/github/chubbyphp/chubbyphp-socket-server-mock?branch=master)
@@ -13,15 +13,15 @@ A simple socket server mock.
 
 ## Requirements
 
- * php: ^7.2
- * symfony/process: ^3.4.43|^4.4.11|^5.0
+ * php: ^8.1
+ * symfony/process: ^4.4.11|^5.0|^6.0
 
 ## Installation
 
-Through [Composer](http://getcomposer.org) as [chubbyphp/chubbyphp-socket-server-mock][1].
+Through [Composer](http://getcomposer.org) as [kbaker-healthcall-dev/chubbyphp-socket-server-mock][1].
 
 ```sh
-composer require chubbyphp/chubbyphp-socket-server-mock "^1.2"
+composer require kbaker-healthcall-dev/chubbyphp-socket-server-mock
 ```
 
 ## Usage
